@@ -1,0 +1,4 @@
+#! /usr/bin/env sh
+chmod +222 $HOME
+$@
+chmod -222 $HOME
