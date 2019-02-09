@@ -1,0 +1,15 @@
+# Ignore everything
+*
+
+# But descend into directories
+!*/
+
+# Recursively allow files under subtree
+!.gitignore 
+
+!/alacritty/**
+!/bspwm/**
+!/sxhkd/**
+!/git/**
+!/ssh/**
+!/zsh/.zshrc
