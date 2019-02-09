@@ -1,0 +1,5 @@
+UserKnownHostsFile /home/alan/.local/share/ssh/well_known
+
+Host *
+    IdentityFile /home/alan/.local/share/ssh/id_ed25519
+
