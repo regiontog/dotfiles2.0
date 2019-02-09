@@ -1,0 +1,3 @@
+#! /usr/bin/env sh
+rm -rf ~/tmp/*
+mkdir -p ~/tmp/downloads
