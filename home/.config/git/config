@@ -1,13 +1,14 @@
 [user]
-	name = Erlend Tobiassen
 	email = erlend.tobiassen@gmail.com
-
+	name = Erlend Tobiassen
+	signingKey = 0x1485200DED3C9A57
 [color]
 	status = auto
 	diff = auto
 	branch = auto
 [commit]
 	verbose = true
+	gpgsign = true
 [push]
 	default = simple
 [pull]
