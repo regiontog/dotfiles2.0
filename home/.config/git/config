@@ -1,3 +1,14 @@
 [user]
 	name = Erlend Tobiassen
 	email = erlend.tobiassen@gmail.com
+
+[color]
+	status = auto
+	diff = auto
+	branch = auto
+[commit]
+	verbose = true
+[push]
+	default = simple
+[pull]
+	ff = only
